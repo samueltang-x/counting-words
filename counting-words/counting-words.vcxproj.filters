@@ -18,5 +18,19 @@
     <ClCompile Include="counting-words.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="generating-cross-reference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="split-words.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="split-words.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="generating-cross-reference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

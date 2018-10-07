@@ -152,6 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="counting-words.cpp" />
+    <ClCompile Include="generating-cross-reference.cpp" />
+    <ClCompile Include="split-words.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="generating-cross-reference.h" />
+    <ClInclude Include="split-words.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
